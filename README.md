@@ -11,8 +11,9 @@
 	> Status do Projeto: Em desenvolvimento :warning:
 </h4>
 
+<h1 align="center">
 <br>
-  <img src="./pagina.png" alt="pagina" width="100%">
+  <img src="./pagina.png" alt="pagina" width="80%">
 <br>
 
 <br>
