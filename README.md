@@ -5,8 +5,6 @@
 ## Descrição do Projeto: :computer:
 <p align="justify"> Este reprodutor de música possui vários recursos, como: você pode repetir a lista inteira, repetir a música apenas ou embaralhar a lista de forma aleatória, reproduzir / pausar uma música, adiantar, pular para a apróxima, ou voltar para a anterior. Você pode ver sua lista de músicas, saber qual música está tocando no momento e também pode selecionar a música da lista para reproduzir. </p>
 
-<br>
-
 <h4 align="center"> 
 	> Status do Projeto: Em desenvolvimento :warning:
 </h4>
@@ -14,8 +12,6 @@
 <h1 align="center">
 <br>
   <img src="./pagina.png" alt="pagina" width="80%">
-<br>
-
 <br>
 
 ### Tarefas concluídas:  
